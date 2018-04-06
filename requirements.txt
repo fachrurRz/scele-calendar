@@ -6,7 +6,6 @@ future==0.16.0
 icalendar==4.0.1
 idna==2.6
 pep8==1.7.1
-pkg-resources==0.0.0
 pycodestyle==2.3.1
 PyCronofy==1.1.2
 python-dateutil==2.6.1
@@ -15,3 +14,4 @@ pytz==2018.3
 requests==2.18.4
 six==1.11.0
 urllib3==1.22
+apscheduler==3.0.0
