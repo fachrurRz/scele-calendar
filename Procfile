@@ -1,1 +1,1 @@
-scheduler: python3 sched.py
+clock: python sched.py
