@@ -12,7 +12,7 @@ USERNAME = os.environ.get("SSO_USERNAME")
 PASSWORD = os.environ.get("PASSWORD")
 
 LOGIN_URL = 'https://scele.cs.ui.ac.id/login/index.php'
-CALENDAR_URL = 'https://scele.cs.ui.ac.id/calendar/export_execute.php?userid=1067&authtoken=205c71c7871d3daa6e3fc927d1ede0de6e03a5ce&preset_what=all&preset_time=recentupcoming'
+CALENDAR_URL = 'https://scele.cs.ui.ac.id/calendar/export_execute.php?userid=1895&authtoken=080a4a72722b8318097302019c647ef24fedbb3a&preset_what=all&preset_time=custom'
 
 
 TRELLO_API_URL = 'https://api.trello.com'
